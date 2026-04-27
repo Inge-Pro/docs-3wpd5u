@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-tm7vy3.citysinglescommunity.com/sitemap.xml
